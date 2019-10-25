@@ -21,7 +21,7 @@ CineFlix is an app that allows users to browse movies from the [The Movie Databa
 <img src="http://g.recordit.co/5MghA6DbVy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+There were some challenges pertaining to the layout of Collection Cells.
 
 ## CineFlix Part 1
 
