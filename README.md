@@ -17,5 +17,7 @@
 
 <img src="http://g.recordit.co/0hlDqJYCkl.gif" width=250><br>
 
+<img src="http://g.recordit.co/AFYW3bVfQx.gif" width=250><br>
+
 ### Notes
 It was a smooth ride! Thanks a lot CodePath and Tim!
